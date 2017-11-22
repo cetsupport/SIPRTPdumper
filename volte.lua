@@ -1,5 +1,4 @@
 -- volte.lua
--- By jeff.chen.xun@ericsson.com
 -- Will check every SIP message, see if it's contain the desire calling or called party. Then dump all message for this stream to a file.
 do
 
